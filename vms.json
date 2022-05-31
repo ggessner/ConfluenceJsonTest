@@ -1,0 +1,81 @@
+{
+    "name": "SIMUverse",
+    "description": "vm table",
+    "data": [
+        {
+            "name": "[BMT]example-vm-0",
+            "cpu": "2",
+            "ram": "4GB",
+            "storage": "54GB",
+            "ip": "192.168.1.110",
+            "hostname": "[BMT]example-vm-0",
+            "ports": [
+                80,
+                22,
+                443,
+                7000,
+                5550
+            ],
+            "network": [
+                "network-1",
+                "network-2"
+            ]
+        },
+        {
+            "name": "[BMT]example-vm-1",
+            "cpu": "2",
+            "ram": "4GB",
+            "storage": "54GB",
+            "ip": "192.168.1.111",
+            "hostname": "[BMT]example-vm-1",
+            "ports": [
+                80,
+                22,
+                443,
+                7000,
+                5550
+            ],
+            "network": [
+                "network-1",
+                "network-2"
+            ]
+        },
+        {
+            "name": "[BMT]example-vm-2",
+            "cpu": "2",
+            "ram": "4GB",
+            "storage": "54GB",
+            "ip": "192.168.1.112",
+            "hostname": "[BMT]example-vm-2",
+            "ports": [
+                80,
+                22,
+                443,
+                7000,
+                5550
+            ],
+            "network": [
+                "network-1",
+                "network-2"
+            ]
+        },
+        {
+            "name": "[BMT]example-vm-3",
+            "cpu": "4",
+            "ram": "8GB",
+            "storage": "54GB",
+            "ip": "192.168.1.113",
+            "hostname": "[BMT]example-vm-3",
+            "ports": [
+                80,
+                22,
+                443,
+                7000,
+                5550
+            ],
+            "network": [
+                "network-1"
+            ]
+        }
+    ]
+}
