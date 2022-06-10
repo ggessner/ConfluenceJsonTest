@@ -1,17 +1,4 @@
-Kostenarten	Plan 1(V9)	Plan 2 (V10)	Disp. Plan	Ist kum.	Abw.	Plan Menge V9	Pl Menge V10	Disp Plan Menge	Ist	Abw.		
-607025  Materialaufwand fremdbe. Baugruppen	0	0	1184,00	1184,00	0,0000	0	0	0	0	0,0000		
-Materialkosten Extern Komponenten	0	0	1184,00	1184,00	0,0000	0	0	0	0	0,0000		
-Materialkosten Extern	0	0	1184,00	1184,00	0,0000	0	0	0	0	0,0000		
-Materialkosten	0	0	1184,00	1184,00	0,0000	0	0	0	0	0,0000		
-Material	0	0	1184,00	1184,00	0,0000	0	0	0	0	0,0000		
-943235  Entwicklung Software	0	0	21600,00	170,00	-21430,00	0	0	270,000	2,000	268,000		
-Entwicklung Software	0	0	21600,00	170,00	-21430,00	0	0	270,000	2,000	268,000		
-943255  Software	0	0	32000,00	31247,50	-752,50	0	0	400,000	386,500	13,500		
-Software	0	0	32000,00	31247,50	-752,50	0	0	400,000	386,500	13,500		
-Fertigungskosten	0	0	53600,00	31417,50	-22182,50	0	0	670,000	388,500	281,500		
-Fertigungskosten ges.	0	0	53600,00	31417,50	-22182,50	0	0	670,000	388,500	281,500		
-Direkte Kosten	0	0	54784,00	32601,50	-22182,50	0	0	670,000	388,500	281,500		
-Selbstkosten WOFS	0	0	54784,00	32601,50	-22182,50	0	0	670,000	388,500	281,500		
-Gesamtkosten WOFS	0	0	54784,00	32601,50	-22182,50	0	0	670,000	388,500	281,500		
-Projektergebnis WOFS	0	0	54784,00	32601,50	-22182,50	0	0	670,000	388,500	281,500		
-Alle Kostenarten	0	0	54784,00	32601,50	-22182,50	0	0	670,000	388,500	281,500		
+Rows    A   B   C   D   E
+RowA    1   2   3   4   5
+RowB    6   7   8   9   A
+RowC    B   C   D   E   F	
