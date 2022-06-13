@@ -1,4 +1,4 @@
-Rows    A    B    C    D    E
-RowA    1    2    3    4    5
-RowB    6    7    8    9    A
-RowC    B    C    D    E    F
+Rows;A;B;C;D;E
+RowA;1;2;3;4;5
+RowB;6;7;8;9;A
+RowC;B;C;D;E;F
